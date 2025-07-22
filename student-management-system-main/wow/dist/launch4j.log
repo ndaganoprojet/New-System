@@ -1,0 +1,53 @@
+
+
+Version:	3.9
+CmdLine:	C:\Users\PROJET NDAGANO\Downloads\student-management-system-main\wow\dist\javaGui.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\PROJET NDAGANO\Downloads\student-management-system-main\wow\dist\.
+Bundled JRE:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Add classpath:	lib\commons-lang3-3.8.1.jar
+Add classpath:	lib\commons-logging-1.2.jar
+Add classpath:	lib\hsqldb-2.5.0.jar
+Add classpath:	lib\jackcess-3.0.1.jar
+Add classpath:	lib\ucanaccess-5.0.1.jar
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\PROJET NDAGANO\Downloads\student-management-system-main\wow\dist\javaGui.exe;lib\commons-lang3-3.8.1.jar;lib\commons-logging-1.2.jar;lib\hsqldb-2.5.0.jar;lib\jackcess-3.0.1.jar;lib\ucanaccess-5.0.1.jar" Guijava
+Args length:	231/32768 chars
+Exit code:	0
+
+
+Version:	3.9
+CmdLine:	C:\Users\PROJET NDAGANO\Downloads\student-management-system-main\wow\dist\javaGui.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\PROJET NDAGANO\Downloads\student-management-system-main\wow\dist\.
+Bundled JRE:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Add classpath:	lib\commons-lang3-3.8.1.jar
+Add classpath:	lib\commons-logging-1.2.jar
+Add classpath:	lib\hsqldb-2.5.0.jar
+Add classpath:	lib\jackcess-3.0.1.jar
+Add classpath:	lib\ucanaccess-5.0.1.jar
+Add classpath:	database\ExhibitionDB.accd
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\PROJET NDAGANO\Downloads\student-management-system-main\wow\dist\javaGui.exe;lib\commons-lang3-3.8.1.jar;lib\commons-logging-1.2.jar;lib\hsqldb-2.5.0.jar;lib\jackcess-3.0.1.jar;lib\ucanaccess-5.0.1.jar;database\ExhibitionDB.accd" Guijava
+Args length:	258/32768 chars
+Exit code:	0
+
+
+Version:	3.9
+CmdLine:	C:\Users\PROJET NDAGANO\Downloads\student-management-system-main\wow\dist\javaGui.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\PROJET NDAGANO\Downloads\student-management-system-main\wow\dist\.
+Bundled JRE:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Add classpath:	lib\commons-lang3-3.8.1.jar
+Add classpath:	lib\commons-logging-1.2.jar
+Add classpath:	lib\hsqldb-2.5.0.jar
+Add classpath:	lib\jackcess-3.0.1.jar
+Add classpath:	lib\ucanaccess-5.0.1.jar
+Add classpath:	database\\ExhibitionDB.accdb
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\PROJET NDAGANO\Downloads\student-management-system-main\wow\dist\javaGui.exe;lib\commons-lang3-3.8.1.jar;lib\commons-logging-1.2.jar;lib\hsqldb-2.5.0.jar;lib\jackcess-3.0.1.jar;lib\ucanaccess-5.0.1.jar;database\\ExhibitionDB.accdb" Guijava
+Args length:	260/32768 chars
+Exit code:	0
